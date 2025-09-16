@@ -1,4 +1,6 @@
 {
     "appService.defaultWebAppToDeploy": "/subscriptions/21bb111e-78c6-488d-9bfd-f8aed5b8f33b/resourceGroups/Azuredevops/providers/Microsoft.Web/sites/webapp-1",
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": ".",
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }
